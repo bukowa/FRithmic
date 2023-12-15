@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FRithmic", "FRithmic\FRithmic.fsproj", "{19DCC209-8CFF-405D-8B55-206B185806C0}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FRithmic.UnitTest", "FRithmic.UnitTest\FRithmic.UnitTest.fsproj", "{EC2B32BE-F87E-4D8E-ACD2-D2257C908997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DCC209-8CFF-405D-8B55-206B185806C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DCC209-8CFF-405D-8B55-206B185806C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DCC209-8CFF-405D-8B55-206B185806C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DCC209-8CFF-405D-8B55-206B185806C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2B32BE-F87E-4D8E-ACD2-D2257C908997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2B32BE-F87E-4D8E-ACD2-D2257C908997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2B32BE-F87E-4D8E-ACD2-D2257C908997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2B32BE-F87E-4D8E-ACD2-D2257C908997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
